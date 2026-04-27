@@ -1,0 +1,169 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data (large datasets - don't track)
+data_faces/
+data_ffpp_kaggle/
+data_ffpp_partial/
+data_micro/
+data_quality/
+data_stylegan_partial/
+data_subset/
+data_tiny/
+
+# Logs (evaluation results - regenerate locally)
+logs/evaluation/
+logs/evaluation_v2/
+logs/*.png
+logs/*.jpg
+logs/*.json
+scripts/logs/
+
+# Checkpoints (large files - use Git LFS if needed)
+scripts/checkpoints/*.pth
+scripts/checkpoints/*.pt
+checkpoints/*.pth
+checkpoints/*.pt
+models/*.pth
+models/*.pt
+
+# Data (large datasets)
+data/*/
+data_faces/*/
+data_ffpp_kaggle/*/
+data_ffpp_partial/*/
+data_micro/*/
+data_quality/*/
+data_stylegan_partial/*/
+data_subset/*/
+data_tiny/*/
+!data/.gitkeep
+!data_faces/.gitkeep
+!data_ffpp_kaggle/.gitkeep
+!data_ffpp_partial/.gitkeep
+!data_micro/.gitkeep
+!data_quality/.gitkeep
+!data_stylegan_partial/.gitkeep
+!data_subset/.gitkeep
+!data_tiny/.gitkeep
+
+# Downloads
+*.zip
+*.tar.gz
+*.rar
+downloads/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# WandB
+wandb/
+*.wandb
+
+# TensorBoard
+scripts/logs/tensorboard/
+
+# Environment variables
+.env
+.env.local
+
+# Kaggle
+kaggle.json
+
+# AI assistant configs (not for repo)
+.qwen/
+.claude/
+
+# AI-generated presentation/speech content
+PRESENTATION_SPEECH.md
+
+# Logs — generated outputs (not tracked; regenerate locally)
+logs/tensorboard/
+logs/heatmaps/
+logs/final_eval_gradcam/
+logs/cross_generator/
+logs/evaluation/
+logs/evaluation_v2/
+logs/*.png
+logs/*.jpg
+logs/*.json
+
+# Assets are tracked (README figures)
+!assets/
+
+# Large model checkpoints (use Git LFS if needed)
+*.bin
+*.onnx
+
+# OS specific
+.DS_Store
+*.log
+
+# Local development (not for repo)
+DOWNLOAD_GUIDE.md
+PROGRESS_REPORT_PRESENTATION.md
+
+# Utility scripts (not needed for production)
+scripts/check_*.py
+scripts/quick_*.py
+scripts/read_pdf.py
+scripts/test_streaming.py
+scripts/try_hf_datasets.py
+scripts/verify_dimensions.py
+scripts/download_hf_datasets.py
+scripts/download_kaggle_datasets.py
+scripts/download_public_datasets.py
+scripts/download_real_*.py
+scripts/download_small_face.py
+scripts/stream_ffpp.py
+scripts/create_*.py
+scripts/extract_partial.py
+scripts/fix_micro.py
+scripts/generate_face_data.py
