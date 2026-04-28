@@ -503,14 +503,4 @@ If you use this work in your research, please cite:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a3e,70:cc785c,100:0d1117&height=130&section=footer" width="100%"/>
 
-**Md Noushad Jahan Ramim** &nbsp;·&nbsp; BSc Thesis Group 3
-
-*Built with PyTorch &nbsp;·&nbsp; CUDA 12.8 &nbsp;·&nbsp; RTX 5060 Ti 16GB*
-
-<br/>
-
-[![Made with PyTorch](https://img.shields.io/badge/Made%20with-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Hugging Face](https://img.shields.io/badge/Datasets-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![GitHub](https://img.shields.io/badge/GitHub-noushad999-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/noushad999/thesis_grp_3)
-
 </div>
