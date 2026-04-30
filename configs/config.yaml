@@ -1,6 +1,10 @@
-# ============================================================
-# Multi-Stream Deepfake Detection — Master Config
-# ============================================================
+# =============================================================================
+# MS-DFD: Multi-Stream Deepfake Face Detection
+# Undergraduate Thesis — Department of CSE, University of Asia Pacific (UAP)
+# Authors: Lamia Tabassum Orpa, Shreya Barai, Mohammad Nazmul Hossain Nadim
+# Supervisor: Nadeem Ahmed, Assistant Professor, UAP
+# =============================================================================
+
 
 # --- Paths ---
 data:
