@@ -15,6 +15,7 @@
 
 **Supervisor:** Nadeem Ahmed, Assistant Professor, Department of CSE, University of Asia Pacific (UAP)
 
+**External Supervisor:** Durjoy Mistry
 ---
 
 ## Abstract
